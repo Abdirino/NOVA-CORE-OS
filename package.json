@@ -1,0 +1,23 @@
+{
+  "name": "pilot_offer-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx serve public --listen 5000",
+    "deploy": "firebase deploy --only hosting",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdirino/NOVA-CORE-OS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Abdirino/NOVA-CORE-OS/issues"
+  },
+  "homepage": "https://github.com/Abdirino/NOVA-CORE-OS#readme"
+}
